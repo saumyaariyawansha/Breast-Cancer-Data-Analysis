@@ -1,1 +1,3 @@
-# About the project
+# Overview
+
+As a passionate data enthusiast, I am currently exploring the application of machine learning techniques in healthcare. This project focuses on breast cancer data, with the aim of building and comparing classification models to uncover meaningful insights. The analysis not only highlights how data-driven approaches can support critical decision-making in medical contexts but also demonstrates the practical use of machine learning for real-world classification problems. I’m excited to share these findings with anyone interested in the intersection of data science and healthcare.
